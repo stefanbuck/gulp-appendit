@@ -1,0 +1,31 @@
+{
+  "name": "gulp-appendit",
+  "version": "0.0.1",
+  "description": "",
+  "homepage": "https://github.com/stefanbuck/gulp-appendit",
+  "bugs": "https://github.com/stefanbuck/gulp-appendit/issues",
+  "license": "MIT",
+  "main": "./index.js",
+  "author": {
+    "name": "Stefan Buck",
+    "email": "git@stefanbuck.com",
+    "url": "http://stefanbuck.com/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/stefanbuck/gulp-appendit"
+  },
+  "dependencies": {
+    "appendit": "~0.1.0",
+    "through": "~2.3.4",
+    "gulp-util": "~2.2.13",
+    "event-stream": "~3.1.0"
+  },
+  "devDependencies": {
+    "should": "~3.1.1",
+    "mocha": "~1.17.1"
+  },
+  "scripts": {
+    "test": "mocha --require should --reporter spec"
+  }
+}
