@@ -17,7 +17,6 @@
   },
   "dependencies": {
     "appendit": "~0.1.0",
-    "through": "~2.3.4",
     "gulp-util": "~2.2.13",
     "event-stream": "~3.1.0"
   },
