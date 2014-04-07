@@ -4,7 +4,7 @@
   "description": "",
   "homepage": "https://github.com/stefanbuck/gulp-appendit",
   "bugs": "https://github.com/stefanbuck/gulp-appendit/issues",
-  "license": "MIT",
+  "license": "BSD",
   "main": "./index.js",
   "author": {
     "name": "Stefan Buck",
