@@ -26,5 +26,8 @@
   },
   "scripts": {
     "test": "mocha --require should --reporter spec"
-  }
+  },
+  "keywords": [
+    "gulpplugin"  
+  ]
 }
